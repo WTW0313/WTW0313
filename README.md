@@ -1,6 +1,6 @@
 # Hi there! 👋 
 
-**I'm Wu Tianwei** - I’m a Frontend Software Engineer currently working @ **LangGenius**.
+**I'm Wu Tianwei** - I’m a Frontend Software Engineer currently working @ [**LangGenius**](https://github.com/langgenius).
 
 <div align="center">
 
