@@ -18,26 +18,26 @@
 <p>
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=WTW0313&show_icons=true&theme=radical"
+      srcset="https://github-readme-stats-git-master-wtw0313s-projects.vercel.app/api?username=WTW0313&show_icons=true&theme=radical"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=WTW0313&show_icons=true&theme=catppuccin_latte"
+      srcset="https://github-readme-stats-git-master-wtw0313s-projects.vercel.app/api?username=WTW0313&show_icons=true&theme=catppuccin_latte"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+    <img src="https://github-readme-stats-git-master-wtw0313s-projects.vercel.app/api?username=anuraghazra&show_icons=true" />
   </picture>
   &nbsp;&nbsp;
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=WTW0313&layout=compact&theme=radical"
+      srcset="https://github-readme-stats-git-master-wtw0313s-projects.vercel.app/api/top-langs?username=WTW0313&layout=compact&theme=radical"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=WTW0313&layout=compact&theme=catppuccin_latte"
+      srcset="https://github-readme-stats-git-master-wtw0313s-projects.vercel.app/api/top-langs?username=WTW0313&layout=compact&theme=catppuccin_latte"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact" />
+    <img src="https://github-readme-stats-git-master-wtw0313s-projects.vercel.app/api/top-langs?username=anuraghazra&layout=compact" />
   </picture>
 </p>
 
