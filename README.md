@@ -18,11 +18,11 @@
 <p>
   <picture>
     <source
-      srcset="https://github-readme-stats-seven-delta-69.vercel.app/api?username=WTW0313&show_icons=true&theme=radical"
+      srcset="https://github.twwu.me/api?username=WTW0313&show_icons=true&theme=radical"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats-seven-delta-69.vercel.app/api?username=WTW0313&show_icons=true&theme=catppuccin_latte"
+      srcset="https://github.twwu.me/api?username=WTW0313&show_icons=true&theme=catppuccin_latte"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats-seven-delta-69.vercel.app/api?username=anuraghazra&show_icons=true" />
@@ -30,14 +30,14 @@
   &nbsp;&nbsp;
   <picture>
     <source
-      srcset="https://github-readme-stats-seven-delta-69.vercel.app/api/top-langs?username=WTW0313&layout=compact&theme=radical"
+      srcset="https://github.twwu.me/api/top-langs?username=WTW0313&layout=compact&theme=radical"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats-seven-delta-69.vercel.app/api/top-langs?username=WTW0313&layout=compact&theme=catppuccin_latte"
+      srcset="https://github.twwu.me/api/top-langs?username=WTW0313&layout=compact&theme=catppuccin_latte"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats-seven-delta-69.vercel.app/api/top-langs?username=anuraghazra&layout=compact" />
+    <img src="https://github.twwu.me/api/top-langs?username=anuraghazra&layout=compact" />
   </picture>
 </p>
 
