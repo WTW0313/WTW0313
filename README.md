@@ -15,6 +15,8 @@
 
 ## 🏆 My Stats:
 
+[![GitHub Roast 评分徽章](https://githubroast.dev/api/badge/WTW0313)](https://githubroast.dev/u/WTW0313)
+
 <p>
   <picture>
     <source
@@ -26,18 +28,6 @@
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats-seven-delta-69.vercel.app/api?username=anuraghazra&show_icons=true" />
-  </picture>
-  &nbsp;&nbsp;
-  <picture>
-    <source
-      srcset="https://github.twwu.me/api/top-langs?username=WTW0313&layout=compact&theme=radical"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github.twwu.me/api/top-langs?username=WTW0313&layout=compact&theme=catppuccin_latte"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github.twwu.me/api/top-langs?username=anuraghazra&layout=compact" />
   </picture>
 </p>
 
