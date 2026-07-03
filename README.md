@@ -17,7 +17,20 @@
 
 [![GitHub Roast 评分徽章](https://githubroast.dev/api/badge/WTW0313)](https://githubroast.dev/u/WTW0313)
 
+
 <p>
+  <picture>
+    <source
+      srcset="https://ghfind.com/api/card/wtw0313?theme=dark&variant=path"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://ghfind.com/api/card/wtw0313?theme=light&variant=path"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img style="width: auto; height: 195px;" src="https://ghfind.com/api/card/wtw0313?theme=light&variant=path" />
+  </picture>
+
   <picture>
     <source
       srcset="https://github.twwu.me/api?username=WTW0313&show_icons=true&theme=radical"
@@ -27,7 +40,7 @@
       srcset="https://github.twwu.me/api?username=WTW0313&show_icons=true&theme=catppuccin_latte"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats-seven-delta-69.vercel.app/api?username=anuraghazra&show_icons=true" />
+    <img src="https://github.twwu.me/api?username=WTW0313&show_icons=true&theme=catppuccin_latte" />
   </picture>
 </p>
 
