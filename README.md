@@ -17,15 +17,8 @@
 
 <p>
   <picture>
-    <source
-      srcset="https://ghfind.com/api/card/wtw0313?theme=dark&variant=path"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://ghfind.com/api/card/wtw0313?theme=light&variant=path"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img style="width: auto; height: 195px;" src="https://ghfind.com/api/card/wtw0313?theme=light&variant=path" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/wtw0313?theme=dark" />
+    <img src="https://ghfind.com/api/card/mini/wtw0313?theme=light" alt="GitHub Roast 评分卡" width="440" />
   </picture>
 
   <picture>
