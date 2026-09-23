@@ -15,9 +15,6 @@
 
 ## 🏆 My Stats:
 
-[![GitHub Roast 评分徽章](https://githubroast.dev/api/badge/WTW0313)](https://githubroast.dev/u/WTW0313)
-
-
 <p>
   <picture>
     <source
